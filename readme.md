@@ -14,9 +14,10 @@ A Few Pictures: https://github.com/kdavis51/rover/blob/main/Rover_Top.jpg
 
 <b>Gear:</b>
 
-Rover Chassis, Motor & Wheels
-  
-https://www.amazon.com/perseids-Chassis-Encoder-Wheels-Battery/dp/B07DNYQ3PX/ref=sr_1_10?crid=1DK5FXISE84JL&keywords=robotics+gear+box&qid=1663242358&sprefix=robotics+gear+box%2Caps%2C90&sr=8-10
+Rover Chassis, Motor & Wheels 
+ 
+ <a href="https://www.amazon.com/perseids-Chassis-Encoder-Wheels-Battery/dp/B07DNYQ3PX/ref=sr_1_10?crid=1DK5FXISE84JL&keywords=robotics+gear+box&qid=1663242358&sprefix=robotics+gear+box%2Caps%2C90&sr=8-10">Rover Chassis, Motor & Wheels</a>
+
 
 Motor controller
     
