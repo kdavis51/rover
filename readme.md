@@ -2,7 +2,7 @@
 
   Arduino IDE Software: https://www.arduino.cc/en/software
 
-  CODE:   <a href="https://github.com/kdavis51/rover/blob/main/Rover.ino">Rover Code</a>
+  Code:   <a href="https://github.com/kdavis51/rover/blob/main/Rover.ino">Rover Code</a>
 
   Wiring Diagram: <a href="https://github.com/kdavis51/rover/blob/main/Rover_WireDiagram.jpg">Wire Diagram</a>
 
