@@ -8,8 +8,9 @@
 
   Short Video: <a href="https://github.com/kdavis51/rover/blob/main/Rover_Video.MOV">Rover_Video.MOV</a>
 
-  A Few Pictures: <a href="https://github.com/kdavis51/rover/blob/main/Rover_Top.jpg">Top</a>
-                <a href=https://github.com/kdavis51/rover/blob/main/Rover_Side.jpg">Side</a>
+  A Few Pictures: 
+  <a href="https://github.com/kdavis51/rover/blob/main/Rover_Top.jpg">Rover_Top.jpg</a>
+  <a href=https://github.com/kdavis51/rover/blob/main/Rover_Side.jpg">Rover_Side.jpg</a>
                 
 
 <b>Gear:</b>
