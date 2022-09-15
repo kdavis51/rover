@@ -11,3 +11,13 @@ Short Video: https://github.com/kdavis51/rover/blob/main/Rover_Video.MOV
 A Few Pictures: https://github.com/kdavis51/rover/blob/main/Rover_Top.jpg
                 https://github.com/kdavis51/rover/blob/main/Rover_Side.jpg
                 
+
+Gear:
+
+Rover Chassis, Motor & Wheels
+
+https://www.amazon.com/perseids-Chassis-Encoder-Wheels-Battery/dp/B07DNYQ3PX/ref=sr_1_10?crid=1DK5FXISE84JL&keywords=robotics+gear+box&qid=1663242358&sprefix=robotics+gear+box%2Caps%2C90&sr=8-10
+
+Motor controller
+
+https://www.amazon.com/Qunqi-Controller-Module-Stepper-Arduino/dp/B014KMHSW6/ref=sr_1_5?crid=132OQCY6SOKRE&keywords=L298n&qid=1663242479&sprefix=l298n%2Caps%2C77&sr=8-5
